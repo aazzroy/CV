@@ -1,2 +1,2 @@
-# CV
+# Readme
 Gaurav's Resume 
